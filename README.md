@@ -1,6 +1,6 @@
 # News Application With Angular and Material Design
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8 later upgraded to 7.3.x.
 
 ## Project overview
 
