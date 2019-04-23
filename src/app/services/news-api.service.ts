@@ -1,16 +1,18 @@
 import { Injectable } from '@angular/core';
 import { HttpService } from './http.service';
-
+import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class NewsApiService {
 
-  api_key = 'f2d4b98bd82f4028a80631396e042558';
+  api_key = environment.API_KEY;
 
 
-  constructor(private http:HttpService) { }
+  constructor(private http:HttpService) { 
+    console.log('Prod: '+environment.production);
+  }
 
 
   initSources(){
