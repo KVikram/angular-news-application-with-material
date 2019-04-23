@@ -2,13 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8 later upgraded to 7.3.x.
 
-## Project overview
+## Project Demo
 
-![News Application](/screenshots/introduction.PNG?raw=true)
-
-From different angles
-
-![News Application full overview](/screenshots/overview.PNG?raw=true)
+https://kvikram.github.io/angular-news-application-with-material/home
 
 ## Acquiring Free API Key
 
